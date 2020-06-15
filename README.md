@@ -3,17 +3,17 @@
 Build and deploy a robot that will drive autonomously while avoiding obstacles, identifying objects and capturing IoT data for analysis. 
 
 These are the main areas we will be focusing on for this summer.
-	1. AWS Cloud
-		a. General Overview
-	2. AI – ML/DL
-		a. Image Classification and Regression - Getting started with AI - Nvidia
-		b. Reinforcement Learning - AWS DeepRacer
-		c. Supervised Learning - Jetbot
-	3. IoT and Robotics
-		a. Cayenne - simple cloud website to stream sensor data
-		b. AWS IoT - stream sensor data
-		c. Analyze and Display Sensor Data
-    d. ROS, AWS Greengrass, RoboMaker and IoT - Jetbot
+1. AWS Cloud
+	1. General Overview
+1. AI – ML/DL
+	1. Image Classification and Regression - Getting started with AI - Nvidia
+	1. Reinforcement Learning - AWS DeepRacer
+	1. Supervised Learning - Jetbot
+1. IoT and Robotics
+	1. Cayenne - simple cloud website to stream sensor data
+	1. AWS IoT - stream sensor data
+	1. Analyze and Display Sensor Data
+	1. ROS, AWS Greengrass, RoboMaker and IoT - Jetbot
 
 ## Training Steps
 1. [AWS Cloud Practitioner Essentials](https://github.com/jetbotml/Summer_Intern_Challenge_2020/blob/master/1_AWS_Cloud_Practitioner_Essentials)

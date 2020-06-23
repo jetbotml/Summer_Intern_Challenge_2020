@@ -10,14 +10,10 @@ The fundamental-level course is intended for individuals who seek an overall und
 
 ## Link to training course: https://www.aws.training/Details/Curriculum?id=27076
 
-## Steps: Complete the following modules and hands on labs: 
+## Steps: Complete the following modules
 
 - Cloud Concepts Introduction
 - AWS Core Services
-  - Additional hands on labs
-    - EC2: Getting started with Amazon EC2 Linux instances - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
-    - EC2: Getting started with Amazon EC2 Windows instances - https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/EC2_GetStarted.html
-    - S3:  Getting started with Amazon Simple Storage Service - https://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html  
 - AWS Enhanced Services
 - AWS Architecting
 - Security

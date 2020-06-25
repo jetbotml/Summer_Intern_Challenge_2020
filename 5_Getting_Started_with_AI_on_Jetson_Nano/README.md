@@ -31,14 +31,14 @@ The power of AI is now in the hands of makers, self-taught developers, and embed
 A computer with an internet connection and the ability to flash your microSD card
 
 ## Steps: Follow the list below as you work through the course. There are some modifications.
-### 1. AI Adventures - Google Cloud: https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2
+### 0. AI Adventures - Google Cloud: https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2
 The two listed below will give you a good overview before you start the Nvidia course. 
 - What is Machine Learning? 
 - Jupyter Tips and Tricks
 
 ### 1. Add WiFi card and fan 
 
-### 1. Setting Up Your Jetson Nano: Step-by-step guide to set up your hardware and software for the course projects
+### 2. Setting Up Your Jetson Nano: Step-by-step guide to set up your hardware and software for the course projects
 Course: https://courses.nvidia.com/courses/course-v1:DLI+C-RX-02+V1/about
 1. (Done) Introduction and Download
 1. (Done) Prepare for Setup
@@ -48,14 +48,14 @@ Course: https://courses.nvidia.com/courses/course-v1:DLI+C-RX-02+V1/about
 1. Hello Camera
 1. JupyterLab
 
-### 2. Image Classification
+### 3. Image Classification
 AI and Deep Learning: A brief overview of Deep Learning and how it relates to Artificial Intelligence (AI)
 1. Convolutional Neural Networks (CNNs): An introduction to the dominant class of artificial neural networks for computer vision tasks
 1. ResNet-18: Specifics on the ResNet-18 network architecture used in the class projects
 1. Thumbs Project: Work with the Interactive Classification notebook to create your first project
 1. Emotions Project: Build a new project with the same Interactive notebook to detect emotions from facial expressions
 
-### 3. Image Regression
+### 4. Image Regression
 Instructions to create projects that can localize and track image features in a live camera image
 1. Classification vs. Regression: With a few changes, your the Classification model can be converted to a Regression model
 1. Face XY Project: Build a project that finds the coordinates of facial features

@@ -31,14 +31,15 @@ The power of AI is now in the hands of makers, self-taught developers, and embed
 A computer with an internet connection and the ability to flash your microSD card
 
 ## Steps: Follow the list below as you work through the course. There are some modifications.
-### 0. AI Adventures - Google Cloud: https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2
+### 1. AI Adventures - Google Cloud: https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2
 The two listed below will give you a good overview before you start the Nvidia course. 
 - What is Machine Learning? 
 - Jupyter Tips and Tricks
 
-### Course: https://courses.nvidia.com/courses/course-v1:DLI+C-RX-02+V1/about
+### 1. Add WiFi card and fan 
 
 ### 1. Setting Up Your Jetson Nano: Step-by-step guide to set up your hardware and software for the course projects
+Course: https://courses.nvidia.com/courses/course-v1:DLI+C-RX-02+V1/about
 1. (Done) Introduction and Download
 1. (Done) Prepare for Setup
 1. (Done) Write Image to the MicroSD Card

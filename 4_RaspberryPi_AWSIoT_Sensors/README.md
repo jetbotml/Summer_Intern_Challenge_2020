@@ -9,7 +9,6 @@
 ## Steps: Complete the following tutorials 
 
 1. IoT Microcontrollers: Onboarding a Raspberry Pi using Raspbian https://www.aws.training/Details/Video?id=26564
-   https://github.com/jetbotml/Summer_Intern_Challenge_2020/blob/master/4_RaspberryPi_AWSIoT_Sensors/Onboarding%20a%20Raspberry%20Pi%20using%20Raspbian.pptx
    1. Create a thing type https://drive.google.com/file/d/1YD3a9yxkk8SHadFmOa4fRPRIVXI5ayQe/view?usp=sharing
    1. Hello World
    1. Send CPU/Temp data to AWS IoT (Optional) https://gpiozero.readthedocs.io/en/stable/ CPUTemperature

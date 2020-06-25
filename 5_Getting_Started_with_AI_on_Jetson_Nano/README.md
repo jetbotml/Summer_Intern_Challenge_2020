@@ -36,7 +36,7 @@ The two listed below will give you a good overview before you start the Nvidia c
 - What is Machine Learning? 
 - Jupyter Tips and Tricks
 
-### 1. Add WiFi card and fan 
+### 1. Add WiFi card and fan https://drive.google.com/file/d/1R1XgJqchHEu3hW_AaGsDTuElu6CrJ9ar/view?usp=sharing
 
 ### 2. Setting Up Your Jetson Nano: Step-by-step guide to set up your hardware and software for the course projects
 Course: https://courses.nvidia.com/courses/course-v1:DLI+C-RX-02+V1/about

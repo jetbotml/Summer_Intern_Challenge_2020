@@ -36,9 +36,9 @@ The two listed below will give you a good overview before you start the Nvidia c
 - What is Machine Learning? 
 - Jupyter Tips and Tricks
 
-### 1. Add WiFi card and fan https://drive.google.com/file/d/1R1XgJqchHEu3hW_AaGsDTuElu6CrJ9ar/view?usp=sharing
+### .5 Add WiFi card and fan https://drive.google.com/file/d/1R1XgJqchHEu3hW_AaGsDTuElu6CrJ9ar/view?usp=sharing
 
-### 2. Setting Up Your Jetson Nano: Step-by-step guide to set up your hardware and software for the course projects
+### 1. Setting Up Your Jetson Nano: Step-by-step guide to set up your hardware and software for the course projects
 Course: https://courses.nvidia.com/courses/course-v1:DLI+C-RX-02+V1/about
 1. (Done) Introduction and Download
 1. (Done) Prepare for Setup
@@ -48,14 +48,14 @@ Course: https://courses.nvidia.com/courses/course-v1:DLI+C-RX-02+V1/about
 1. Hello Camera
 1. JupyterLab
 
-### 3. Image Classification
+### 2. Image Classification
 AI and Deep Learning: A brief overview of Deep Learning and how it relates to Artificial Intelligence (AI)
 1. Convolutional Neural Networks (CNNs): An introduction to the dominant class of artificial neural networks for computer vision tasks
 1. ResNet-18: Specifics on the ResNet-18 network architecture used in the class projects
 1. Thumbs Project: Work with the Interactive Classification notebook to create your first project
 1. Emotions Project: Build a new project with the same Interactive notebook to detect emotions from facial expressions
 
-### 4. Image Regression
+### 3. Image Regression
 Instructions to create projects that can localize and track image features in a live camera image
 1. Classification vs. Regression: With a few changes, your the Classification model can be converted to a Regression model
 1. Face XY Project: Build a project that finds the coordinates of facial features

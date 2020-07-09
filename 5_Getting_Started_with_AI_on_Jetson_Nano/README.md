@@ -38,8 +38,11 @@ The two listed below will give you a good overview before you start the Nvidia c
 
 ### Also - take a look at the sampes included on the Jetson image
 /usr/share/visionworks-tracking/sources/install-samples.sh /home/dlinano/Desktop
+
 /usr/share/visionworks-sfm/sources/install-samples.sh /home/dlinano/Desktop
+
 /usr/share/visionworks/sources/install-samples.sh /home/dlinano/Desktop
+
 /usr/local/cuda-10.0/bin/cuda-install-samples-10.0.sh /home/dlinano/Desktop
 
 ### .5 Add WiFi card and fan https://drive.google.com/file/d/1R1XgJqchHEu3hW_AaGsDTuElu6CrJ9ar/view?usp=sharing

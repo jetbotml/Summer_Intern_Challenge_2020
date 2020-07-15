@@ -30,4 +30,4 @@ These are the main areas we will be focusing on for this summer.
 	1. [Rise of the machines: Bring artificial intelligence to your robot](https://robomakerworkshops.com/jetbot-ml-workshop/)
 	1. [Robomaker Dino Detect and AWS ML IOT Services](https://github.com/jetbotml/Summer_Intern_Challenge_2020/blob/master/9_Robomaker_Dino_Detect_and_AWS_ML_IOT_Services)
 	
-![schedule](10-week_schedule.png)
+![schedule](10-week_schedule.jpg)
